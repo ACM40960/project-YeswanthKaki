@@ -1,5 +1,7 @@
 # AI Image recognition of Sign Language and Sentiment analysis using NLP
 
+![Image1](/Images/SignLanguage.PNG)
+
 To classify images of static letter hand posture using neural networks and thereby using a text classification model to analyse the emotions of handicapped people
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
@@ -12,6 +14,7 @@ To classify images of static letter hand posture using neural networks and there
 - [Custom Installation](#custom-installation)
 - [Implementation](#implementation)
 - [Example](#example)
+- [License](#license)
 - [Authors](#authors)
 
 # About the Project
@@ -103,7 +106,14 @@ To classify images of static letter hand posture using neural networks and there
 5) For the 'WORRY' word the emotion predicted is 'fear'.
 6) Similarly different samples of test data can be predicted.
 
+# License
+
+The Project is currently not Licensed and can used by anyone.
+
 # Authors
 
 1) Reshma Ravindran - 21200391
 2) Yeswanth Kaki - 21200266
+
+**All our dreams can come true if we have the courage to pursue them**
+                                             **- Walt Disney**
