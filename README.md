@@ -1,4 +1,4 @@
-# AI image recognition of sign language and sentiment analysis using NLP
+# AI Image recognition of Sign Language and Sentiment analysis using NLP
 
 To classify images of static letter hand posture using neural networks and thereby using a text classification model to analyse the emotions of handicapped people
 
