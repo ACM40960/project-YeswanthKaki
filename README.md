@@ -1,6 +1,6 @@
 # AI Image recognition of Sign Language and Sentiment analysis using NLP
 
-![Image1](/Images/SignCover.png)
+![Image1](/Images/SignCover2.png)
 
 To classify images of static letter hand posture using neural networks and thereby using a text classification model to analyse the emotions of handicapped people
 
@@ -89,11 +89,10 @@ To classify images of static letter hand posture using neural networks and there
 
 # Implementation
 
-1) Save all the project_test data and the saved models in a common folder.
-2) Unzip the project_test folder.
-3) Open the Final_project_test.ipynp file to test the project.
-4) The project_test folder contained three separate samples of test data.
-5) Any sample can be tested by altering the path in accordance with the selected sample.
+1) Save all the project_test data and the saved models EmotionPredictor.h5 and SignLanguagePredictor.h5 and Final_Project_Test.ipynb in a common folder.
+2) Open the Final_project_test.ipynp file to test the project.
+3) The project_test folder contained few separate samples of test data.
+4) Any sample can be tested by altering the path in accordance with the selected sample.
 
 # Example
 
