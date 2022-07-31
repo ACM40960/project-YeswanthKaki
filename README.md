@@ -1,6 +1,6 @@
 # AI Image recognition of Sign Language and Sentiment analysis using NLP
 
-![Image1](/Images/SignLanguage.PNG)
+![Image1](/Images/SignCover.png)
 
 To classify images of static letter hand posture using neural networks and thereby using a text classification model to analyse the emotions of handicapped people
 
@@ -105,6 +105,10 @@ To classify images of static letter hand posture using neural networks and there
 4) Now the resultant word's emotion is predicted using Emotion Predictor model.
 5) For the 'WORRY' word the emotion predicted is 'fear'.
 6) Similarly different samples of test data can be predicted.
+
+**Result of Example**
+![TestImage1](/Images/TestResult1.png)
+![TestImage1](/Images/TestResult2.png)
 
 # License
 
