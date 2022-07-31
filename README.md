@@ -90,7 +90,7 @@ To classify images of static letter hand posture using neural networks and there
 # Implementation
 
 1) Save all the project_test data and the saved models EmotionPredictor.h5 and SignLanguagePredictor.h5 and Final_Project_Test.ipynb in a common folder.
-2) Open the Final_project_test.ipynp file to test the project.
+2) Open the Final_project_Test.ipynp file to test the project.
 3) The project_test folder contained few separate samples of test data.
 4) Any sample can be tested by altering the path in accordance with the selected sample.
 
@@ -98,7 +98,7 @@ To classify images of static letter hand posture using neural networks and there
 
 **Steps Involved**
 
-1) A Sample test data of letters that combine to make up a word 'WORRY' is tested using the Final_project_test.ipynb file.
+1) A Sample test data of images that combine to make up a word 'WORRY' is stored in worry_test folder and is tested using the Final_project_Test.ipynb file.
 2) The letters of the word 'WORRY' are retrieved in a sequence and added to a empty list. 
 3) Each letter is processed, predicted and appended to a empty string.
 4) Now the resultant word's emotion is predicted using Emotion Predictor model.
