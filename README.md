@@ -100,9 +100,10 @@ Note: These can also be installed in Jupyter notebook
 
 1) Download the EmotionPredictor.h5 from the trained models folder in the [google drive link](https://drive.google.com/file/d/15-qGfRgx57aoYUN6nxhNqzUz1yvxeyUr/view?usp=sharing)
 2) Save all the project_test data, the saved models EmotionPredictor.h5, SignLanguagePredictor.h5 and Final_Project_Test.ipynb in a common folder.
-3) Open the Final_project_Test.ipynp file to test the project.
-4) The project_test folder contained few separate samples of test data.
-5) Any sample can be tested by altering the path in accordance with the selected sample.
+3) Unzip the project_test folder.
+4) Open the Final_project_Test.ipynp file to test the project.
+5) The project_test folder contained few separate samples of test data.
+6) Any sample can be tested by altering the path in accordance with the selected sample.
 
 # Example
 
