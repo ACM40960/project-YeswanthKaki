@@ -12,6 +12,7 @@ To classify images of static letter hand posture using neural networks and there
 - [About the Project](#about-the-project)
 - [Installation](#installation)
 - [Custom Installation](#custom-installation)
+- [Training Dataset](#training-dataset)
 - [Implementation](#implementation)
 - [Example](#example)
 - [License](#license)
@@ -86,6 +87,12 @@ To classify images of static letter hand posture using neural networks and there
     - **Install en_core_web_sm**
         - go to the python path and execute command
         `py -m spacy download en_core_web_sm`
+
+# Training Dataset
+
+1) The training dataset can be download from the given link [Training Dataset](https://www.kaggle.com/code/zeyadkhalid/sign-language-recognition-97-val-accuracy/data?select=asl_alphabet_train).
+2) In the Data Sources select ASL Alphabet and then choose asl_alphabet_train and download asl_alphabet_train.
+
 
 # Implementation
 
