@@ -78,6 +78,8 @@ To classify images of static letter hand posture using neural networks and there
      - **Install tensor flow**  (preferable version  > 2.6)
         `pip install tensor flow`
         note: If tensorflow is already available update tensor flow using the command `pip install --upgrade tensorflow --user`
+         
+Note: These can also be installed in Jupyter notebook
 
 **Install python packages**
 
